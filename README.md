@@ -7,7 +7,7 @@
 
 - 💻 Cybersecurity Blockchain Technology [CYBERLINK](https://www.cyberlink.finance/)
 
-- 🤝 I’m looking for help with [My forum!](https://ethicalhacking.freeflarum.com/)
+- 🤝 I’m looking for collaboration for [my forum!](https://ethicalhacking.freeflarum.com/)
 
 - 📝 I regularly write articles on [https://ethicalhacking.freeflarum.com/](https://ethicalhacking.freeflarum.com/)
 
