@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ethical Hacking Forum!](https://ethicalhacking.freeflarum.com/)
 
-- 📚 I’m learning **C++, Electronics in high school and cybersecurity!**
+- 📚 Computer Science at **University Ca' Foscari of Venice**
 
 - 💻 Cybersecurity Blockchain Technology [CYBERLINK](https://www.cyberlink.finance/)
 
