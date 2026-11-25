@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Samuele!</h1>
 <h3 align="center">I'm a student passionate about cybersecurity. In my spare time I enjoy coding, learning new things in this area and going to the gym! I hope to turn my lifelong passion into a real job! 🤞</h3>
 
-- 🔭 I’m currently working on [Ethical Hacking Forum!](https://ethicalhacking.freeflarum.com/)
+- 🔭 I’m currently working on [Ethical Hacking Forum!](https://ethicalhacking.freeflarum.com/) and [BlackSession](https://www.blacksession.org/)
 
 - 📚 Computer Science at **University Ca' Foscari of Venice**
-
-- 💻 Cybersecurity Blockchain Technology [CYBERLINK](https://www.cyberlink.finance/)
 
 - 🤝 I’m looking for collaboration: [forum!](https://ethicalhacking.freeflarum.com/)
 
